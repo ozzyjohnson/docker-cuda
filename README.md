@@ -24,7 +24,7 @@ Or, as the base of another image.
 
 - Surely there's direct link to driver only download somewhere on the developer site. The package I'm using is 900MB.
 
-### Thanks / Resouces:
+### Thanks / Resources:
 
 A few guides and posts that were invaluable in getting this working.
 
