@@ -23,3 +23,11 @@ Or, as the base of another image.
 ### Next:
 
 - Surely there's direct link to driver only download somewhere on the developer site. The package I'm using is 900MB.
+
+### Thanks / Resouces:
+
+A few guides and posts that were invaluable in getting this working.
+
+- [Mulitple answers on Stack Overflow](http://stackoverflow.com/questions/25185405/using-gpu-from-a-docker-container)
+- [NVIDIA's Getting Started with CUDA on Linux](http://developer.download.nvidia.com/compute/cuda/6_5/rel/docs/CUDA_Getting_Started_Linux.pdf)
+
