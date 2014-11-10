@@ -1,10 +1,10 @@
 FROM debian:wheezy
 
-MAINTAINER Ozzy Johnson <ozzy.johnson@gmail.com>
+MAINTAINER Ozzy Johnson <docker@ozzy.io>
 
 ENV DEBIAN_FRONTEND noninteractive
 
-ENV CUDA_DRIVER 340.46
+ENV CUDA_DRIVER 340.58
 ENV CUDA_INSTALL http://us.download.nvidia.com/XFree86/Linux-x86_64/${CUDA_DRIVER}/NVIDIA-Linux-x86_64-${CUDA_DRIVER}.run
 
 # Update and install minimal.
