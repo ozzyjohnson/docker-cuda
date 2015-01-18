@@ -1,3 +1,3 @@
 [submodule "ec2-gpu"]
 	path = ec2-gpu
-	url = git@github.com:ozzyjohnson/ec2-gpu.git
+	url = https://github.com/ozzyjohnson/ec2-gpu.git
