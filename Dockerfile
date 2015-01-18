@@ -15,9 +15,9 @@ RUN \
             --yes \
             --no-install-recommends \
             --no-install-suggests \
-       build-essential=11.5 \
-       module-init-tools=9-3 \
-       wget=1.13.4-3+deb7u1 \ 
+       build-essential \
+       module-init-tools \
+       wget \
 
 # Clean up packages.
   && apt-get clean \
